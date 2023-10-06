@@ -2,7 +2,7 @@
 Projeto que visa automatizar os testes regressivos da página TODO MVC, utilizando a arquitetura pegeObjects
 
 A estrutura PageObject é um padrão de design que ajuda a aprimorar a manutenção de testes e reduzir a duplicação de código, também pode ser utilizado para descrever e documentar o fluxo de uma aplicação.
-Modelo da extrutura em camadas:
+Modelo da estrutura em camadas:
 
 <img width="400" src="/assets/img/pageobject.png" />
 
