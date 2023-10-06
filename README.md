@@ -4,8 +4,9 @@ Projeto que visa automatizar os testes regressivos da página TODO MVC, utilizan
 A estrutura PageObject é um padrão de design que ajuda a aprimorar a manutenção de testes e reduzir a duplicação de código, também pode ser utilizado para descrever e documentar o fluxo de uma aplicação.
 Modelo da extrutura em camadas:
 
-<img width="400" src="https://uploaddeimagens.com.br/imagens/QbqfxcY" />
+<img width="400" src="/assets/img/pageobject.png" />
 
+## 💡Este projeto ainda está em construção para validação da usabilidade do page Object!
 
 ## 💡 Technologies used
 
